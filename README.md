@@ -30,7 +30,7 @@ Node.js · Express.js · MongoDB · Mongoose · Morgan · Chart.js
 **Prerequisites:** Node.js and MongoDB
 
 ```bash
-git clone https://github.com/Archils/Workout-Tracker.git
+git clone https://github.com/Archo2/Workout-Tracker.git
 cd Workout-Tracker
 npm install
 npm run seed   # optional: add sample workouts
@@ -42,5 +42,5 @@ Then open http://localhost:3000. The app connects to `mongodb://localhost/workou
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
